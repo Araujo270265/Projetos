@@ -1,0 +1,18 @@
+{
+    "Servers": {
+        "1": {
+            "Name": "PostgreSQL 10",
+            "Group": "Servers",
+            "Host": "localhost",
+            "Port": 5432,
+            "MaintenanceDB": "postgres",
+            "Username": "postgres",
+            "SSLMode": "prefer",
+            "Comment": "Auto-detected PostgreSQL 10 installation with the data directory at C:\\Program Files\\PostgreSQL\\10\\data",
+            "SSLCompression": 0,
+            "Timeout": 10,
+            "UseSSHTunnel": 0,
+            "TunnelAuthentication": 0
+        }
+    }
+}
